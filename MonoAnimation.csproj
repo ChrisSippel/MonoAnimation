@@ -49,6 +49,7 @@
     <Compile Include="IAnimation.cs" />
     <Compile Include="IAnimationController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BirdsEyeViewWalkingAnimationController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
